@@ -1,0 +1,4 @@
+﻿  Cave.cpp
+C:\Users\GODof\OneDrive\ドキュメント\-2\DxLib\DxLib.h(2819,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\GODof\OneDrive\ドキュメント\-2\Cave.cpp(90,29): warning C4553: '==': 式の結果が使用されていません。'=' を意図していますか?
+  GameProg.vcxproj -> C:\Users\GODof\OneDrive\ドキュメント\-2\x64\Debug\GameProg.exe
